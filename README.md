@@ -81,6 +81,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
   ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=Node.js&logoColor=white)
   ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-f74b00?style=flat&logo=rust&logoColor=white)
 - 🌐 &nbsp;
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue-dot-js&logoColor=4FC08D)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
