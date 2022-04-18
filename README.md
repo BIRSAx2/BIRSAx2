@@ -75,7 +75,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 <h1> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Studying Computer Engineering at Università di Padova.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h1> 🛠 &nbsp;Tech Stack</h3>
