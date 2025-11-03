@@ -1,6 +1,74 @@
 # Hey there! I'm Mouhieddine
-<h1> ♟ &nbsp;Chess Tournament </h3>
 
+<h1> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Aarhus University.
+- 🌱 &nbsp; Learning more about Static Analysis, Programming Languages, Category Theory.
+
+<h1> 🛠 &nbsp;Tech Stack</h1>
+
+### 👨‍💻
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Ocaml](https://img.shields.io/badge/Ocaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ⚙️
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Armeria](https://img.shields.io/badge/Armeria-1A2C3D?style=for-the-badge)
+![jOOQ](https://img.shields.io/badge/jOOQ-006E8A?style=for-the-badge)
+![Micrometer](https://img.shields.io/badge/Micrometer-2C91D4?style=for-the-badge)
+![Apache Thrift](https://img.shields.io/badge/Apache%20Thrift-E87A60?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🛢️
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### 🧪
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-E5272D?style=for-the-badge&logo=mockito&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-932793?style=for-the-badge)
+
+### ☁️
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-326CE5?style=for-the-badge&logo=dokploy&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-003A8C?style=for-the-badge&logo=ansible&logoColor=white)
+
+<a href="https://github.com/BIRSAx2">
+  <img src="https://srv.mouhieddine.dev/stats?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29&cache_seconds=3600" />
+  <img src="https://srv.mouhieddine.dev/stats/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
+</a>
+
+<br/>
+
+<h1> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.mouhieddine.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mouhieddine.dev-blue?style=flat&logo=microsoft-edge"></a>
+<a href="https://www.instagram.com/Mouhieddine.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mouhieddine.dev-pink?style=flat&logo=instagram"></a>
+<a href="mailto:info@mouhieddine.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mouhieddine.dev-red?style=flat&logo=gmail"></a>
+</p>
+
+<h1> ♟ &nbsp;Chess Tournament </h3>
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
@@ -50,11 +118,11 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 | Move | Author |
 | :--: | :----- |
-| `A4` to `A3` | [ @kkkont](https://github.com/kkkont) |
-| `F3` to `E5` | [ @Diebbo](https://github.com/Diebbo) |
-| `G7` to `G6` | [ @BIRSAx2](https://github.com/BIRSAx2) |
-| `C1` to `G5` | [ @jacopo-angeli](https://github.com/jacopo-angeli) |
-| `A5` to `A4` | [ @antoniotangaro](https://github.com/antoniotangaro) |
+| `A4` to `A3` | [@kkkont](https://github.com/kkkont) |
+| `F3` to `E5` | [@Diebbo](https://github.com/Diebbo) |
+| `G7` to `G6` | [@BIRSAx2](https://github.com/BIRSAx2) |
+| `C1` to `G5` | [@jacopo-angeli](https://github.com/jacopo-angeli) |
+| `A5` to `A4` | [@antoniotangaro](https://github.com/antoniotangaro) |
 
 <!-- END LAST MOVES -->
 </details>
@@ -75,60 +143,3 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 <!-- END TOP MOVES -->
 </details>
-
-
-<br/>
-<h1> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering at Università di Padova.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-
-<h1> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=Node.js&logoColor=white)
-- 🌐 &nbsp;
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue-dot-js&logoColor=4FC08D)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=whiteC)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-0000CC?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-FEAA2D?style=flat&logo=github&logoColor=white)
-  ![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-FF3300?style=flat&logo=markdown&logoColor=white)
-  ![Latex](https://img.shields.io/badge/Latex-FF0000?style=flat&logo=latex&logoColor=white)
-- 🔧 &nbsp;
-  ![Visual Studio Code](	https://img.shields.io/badge/VS%20Code-02569B?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-0FAAFF?style=flat&logo=intellij-idea&logoColor=white)
-- 🖥 &nbsp;
-  ![Figma](	https://img.shields.io/badge/Figma-FF4500?style=flat&logo=figma&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-E4405F?style=flat&logo=adobe-xd&logoColor=white)
-<br/>
-
-<a href="https://github.com/BIRSAx2">
-  <img src="https://srv.mouhieddine.dev/stats?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29" />
-  <img src="https://srv.mouhieddine.dev/stats/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
-</a>
-
-<br/>
-
-<h1> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.mouhieddine.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mouhieddine.dev-blue?style=flat&logo=microsoft-edge"></a>
-<a href="https://www.instagram.com/Mouhieddine.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mouhieddine.dev-pink?style=flat&logo=instagram"></a>
-<a href="mailto:info@mouhieddine.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mouhieddine.dev-red?style=flat&logo=gmail"></a>
-</p>
