@@ -119,8 +119,8 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 <br/>
 
 <a href="https://github.com/BIRSAx2">
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BIRSAx2&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRSAx2&hide=jupyter%20notebook,html,less,css,text,typst,dockerfile,scss,shell&langs_count=8&layout=compact" />
+  <img src="https://srv.mouhieddine.dev/stats?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29" />
+  <img src="https://srv.mouhieddine.dev/stats/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
 </a>
 
 <br/>
