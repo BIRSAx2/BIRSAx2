@@ -8,8 +8,6 @@
 
 <h1> 🛠 &nbsp;Tech Stack</h1>
 
-### 👨‍💻
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +16,6 @@
 ![Ocaml](https://img.shields.io/badge/Ocaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### ⚙️
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -27,20 +24,17 @@
 ![Micrometer](https://img.shields.io/badge/Micrometer-2C91D4?style=for-the-badge)
 ![Apache Thrift](https://img.shields.io/badge/Apache%20Thrift-E87A60?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🛢️
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### 🧪
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-E5272D?style=for-the-badge&logo=mockito&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-932793?style=for-the-badge)
 
-### ☁️
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Dokploy-326CE5?style=for-the-badge&logo=dokploy&logoColor=white)
