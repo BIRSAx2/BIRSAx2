@@ -22,43 +22,7 @@ Backend Engineer at **MultiSafepay** working on payment infrastructure, transact
 Currently pursuing an **MSc in Computer Science** at Aarhus University, specialising in Software Foundations & Technology.
 I gravitate toward systems programming, distributed systems, compilers, and type theory.
 
----
-
-### 💼 &nbsp;Experience
-
-<table>
-  <tr>
-    <td><b>Sep 2025 – Present</b></td>
-    <td><b>Part-time Medior Backend Engineer</b>: MultiSafepay International (Remote)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Led C-TAP v10 → v11 upgrade: transaction flows, card recognition, acquirer association, host message processing</td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td><b>Oct 2024 – Aug 2025</b></td>
-    <td><b>Medior Backend Engineer</b>: MultiSafepay International (Estepona, Spain)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Financial reconciliation pipelines (~90% reduction in manual work) · Kafka event-driven pipeline (3 microservices, >10 notifications/sec) · Fraud Engine · Java 8 → modern Java migration</td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td><b>May – Sep 2023</b></td>
-    <td><b>Backend Developer (Internship)</b>: CodiceWeb Banking Innovation (Padova, Italy)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Struts2 CSP extension · EJBCA/SignServer modules · PostgreSQL HA configuration</td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td><b>Nov 2021 – Apr 2023</b></td>
-    <td><b>Full Stack Developer</b>: Bukò Software and Communication (Padua, Italy)</td>
-  </tr>
-</table>
+> 🌐 **Full portfolio & interactive CV at [mouhieddine.dev](https://mouhieddine.dev)**
 
 ---
 
@@ -116,11 +80,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,rust,python,typescript&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/OCaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black" />
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,rust,python,typescript,ocaml,elixir,perl&theme=dark" />
 
 **Java Ecosystem**
 
