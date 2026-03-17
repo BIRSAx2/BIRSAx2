@@ -1,65 +1,97 @@
-# Hey there! I'm Mouhieddine
+# Hey, I'm Mouhieddine 👋
 
-<h1> 👨🏻‍💻 &nbsp;About Me </h3>
+**Backend Engineer** at MultiSafepay · **MSc Computer Science** at Aarhus University (Software Foundations & Technology)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Aarhus University.
-- 🌱 &nbsp; Learning more about Static Analysis, Programming Languages, Category Theory.
+I build distributed systems and enjoy working close to the metal — payment infrastructure, event-driven pipelines, compilers, and systems programming in Java, Rust, and OCaml.
 
-<h1> 🛠 &nbsp;Tech Stack</h1>
+---
+
+## 💼 &nbsp;Experience
+
+- **Part-time Medior Backend Engineer** — MultiSafepay International *(Sep 2025 – Present)*
+  Led C-TAP v10 → v11 upgrade: transaction flows, card recognition, host message processing
+- **Medior Backend Engineer** — MultiSafepay International *(Oct 2024 – Aug 2025)*
+  Financial reconciliation pipelines (TDD, ~90% reduction in manual work) · Event-driven Kafka pipeline (3 microservices, PostgreSQL, >10 notifications/sec) · Fraud Engine · Java 8 → modern Java migration
+- **Backend Developer (Internship)** — CodiceWeb Banking Innovation *(May – Sep 2023)*
+  Struts2 CSP extension · EJBCA/SignServer modules · PostgreSQL HA configuration
+- **Full Stack Developer** — Bukò Software and Communication *(Nov 2021 – Apr 2023)*
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**tiny-redis**](https://github.com/BIRSAx2/tiny-redis) | Redis-compatible server from scratch — RESP2, all 5 data types, transactions, AOF persistence, LRU eviction | Rust, Tokio |
+| [**dolphin**](https://github.com/BIRSAx2/dolphin) | Full-pipeline compiler: lexer → parser → type inference → LLVM IR codegen + C runtime | OCaml, LLVM, Menhir |
+| [**CoqHM**](https://github.com/BIRSAx2/CoqHM) | Formal verification of Hindley-Milner type inference, proved sound in Rocq | Rocq, Typst |
+| [**ibn-battuta**](https://github.com/BIRSAx2/ibn-battuta) | TSP solver library — exact, heuristic, and metaheuristic algorithms (ACS, GA, SA). Published on crates.io | Rust, Rayon |
+| [**random-art**](https://github.com/BIRSAx2/random-art) | Procedural abstract art via recursive expression grammars, rendered as PNG or GLSL shaders | Rust, GLSL |
+| [**Alba CubeSat**](https://github.com/BIRSAx2/AlbaSat-OBSW) | On-board software for ESA's Fly Your Satellite programme (FreeRTOS, comms, power, scheduling) | C, FreeRTOS |
+
+---
+
+## 🛠 &nbsp;Tech Stack
+
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Ocaml](https://img.shields.io/badge/Ocaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+**Backend & Infrastructure**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Armeria](https://img.shields.io/badge/Armeria-1A2C3D?style=for-the-badge)
 ![jOOQ](https://img.shields.io/badge/jOOQ-006E8A?style=for-the-badge)
 ![Micrometer](https://img.shields.io/badge/Micrometer-2C91D4?style=for-the-badge)
 ![Apache Thrift](https://img.shields.io/badge/Apache%20Thrift-E87A60?style=for-the-badge&logo=apache&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+**Testing**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-E5272D?style=for-the-badge&logo=mockito&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-932793?style=for-the-badge)
 
+**Tooling & Ops**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-326CE5?style=for-the-badge&logo=dokploy&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-003A8C?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-003A8C?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+## 📊 &nbsp;Stats
 
 <a href="https://github.com/BIRSAx2">
-  <img src="https://srv.mouhieddine.dev/stats?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29&cache_seconds=3600" />
-  <img src="https://srv.mouhieddine.dev/stats/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
 </a>
 
-<br/>
+---
 
-<h1> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🤝🏻 &nbsp;Connect
 
-<p align="center">
-<a href="https://www.mouhieddine.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mouhieddine.dev-blue?style=flat&logo=microsoft-edge"></a>
-<a href="https://www.instagram.com/Mouhieddine.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mouhieddine.dev-pink?style=flat&logo=instagram"></a>
-<a href="mailto:info@mouhieddine.dev"><img alt="Email" src="https://img.shields.io/badge/Email-mouhieddine.dev-red?style=flat&logo=gmail"></a>
+<p>
+<a href="https://www.mouhieddine.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-mouhieddine.dev-blue?style=flat&logo=microsoft-edge"></a>
+<a href="https://www.linkedin.com/in/mouhieddine/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mouhieddine-0077B5?style=flat&logo=linkedin"></a>
+<a href="mailto:me@mouhieddine.dev"><img alt="Email" src="https://img.shields.io/badge/Email-me@mouhieddine.dev-red?style=flat&logo=gmail"></a>
 </p>
 
 <h1> ♟ &nbsp;Chess Tournament </h3>
