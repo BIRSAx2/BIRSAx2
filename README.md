@@ -18,7 +18,7 @@
 
 ### 👨🏻‍💻 &nbsp;About
 
-Backend Engineer at **MultiSafepay** working on payment infrastructure — transaction flows, event-driven pipelines, and financial reconciliation.
+Backend Engineer at **MultiSafepay** working on payment infrastructure, transaction flows, event-driven pipelines, and financial reconciliation.
 Currently pursuing an **MSc in Computer Science** at Aarhus University, specialising in Software Foundations & Technology.
 I gravitate toward systems programming, distributed systems, compilers, and type theory.
 
@@ -29,7 +29,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 <table>
   <tr>
     <td><b>Sep 2025 – Present</b></td>
-    <td><b>Part-time Medior Backend Engineer</b> — MultiSafepay International (Remote)</td>
+    <td><b>Part-time Medior Backend Engineer</b>: MultiSafepay International (Remote)</td>
   </tr>
   <tr>
     <td></td>
@@ -38,7 +38,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td><b>Oct 2024 – Aug 2025</b></td>
-    <td><b>Medior Backend Engineer</b> — MultiSafepay International (Estepona, Spain)</td>
+    <td><b>Medior Backend Engineer</b>: MultiSafepay International (Estepona, Spain)</td>
   </tr>
   <tr>
     <td></td>
@@ -47,7 +47,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td><b>May – Sep 2023</b></td>
-    <td><b>Backend Developer (Internship)</b> — CodiceWeb Banking Innovation (Padova, Italy)</td>
+    <td><b>Backend Developer (Internship)</b>: CodiceWeb Banking Innovation (Padova, Italy)</td>
   </tr>
   <tr>
     <td></td>
@@ -56,7 +56,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td><b>Nov 2021 – Apr 2023</b></td>
-    <td><b>Full Stack Developer</b> — Bukò Software and Communication (Padua, Italy)</td>
+    <td><b>Full Stack Developer</b>: Bukò Software and Communication (Padua, Italy)</td>
   </tr>
 </table>
 
@@ -68,14 +68,14 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/tiny-redis">🗄️ tiny-redis</a></h4>
-      Redis-compatible server from scratch — RESP2 protocol, all 5 data structures, MULTI/EXEC transactions, AOF persistence, 5 eviction policies.
+      Redis-compatible server from scratch, RESP2 protocol, all 5 data structures, MULTI/EXEC transactions, AOF persistence, 5 eviction policies.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Tokio-000000?style=flat&logoColor=white" />
     </td>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/dolphin">🐬 dolphin</a></h4>
-      Full-pipeline compiler for a statically-typed language — Menhir parser, type inference, LLVM IR codegen, C runtime with networking.
+      Full-pipeline compiler for a statically-typed language, Menhir parser, type inference, LLVM IR codegen, C runtime with networking.
       <br/><br/>
       <img src="https://img.shields.io/badge/OCaml-F7DBA0?style=flat&logo=ocaml&logoColor=black" />
       <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white" />
@@ -91,7 +91,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
     </td>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/ibn-battuta">🗺️ ibn-battuta</a></h4>
-      TSP solver library — exact (BHK, B&B), heuristic (2-Opt, LK), and metaheuristic (ACS, GA, SA) algorithms. Published on crates.io.
+      TSP solver library, exact (BHK, B&B), heuristic (2-Opt, LK), and metaheuristic (ACS, GA, SA) algorithms. Published on crates.io.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Rayon-000000?style=flat&logoColor=white" />
@@ -100,17 +100,10 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/random-art">🎨 random-art</a></h4>
-      Procedural abstract art via recursive expression grammars — renders to PNG or real-time GLSL shaders.
+      Procedural abstract art via recursive expression grammars, renders to PNG or real-time GLSL shaders.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/BIRSAx2/AlbaSat-OBSW">🛰️ Alba CubeSat</a></h4>
-      On-board software for ESA's Fly Your Satellite programme — FreeRTOS, comms, power management, task scheduling.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/FreeRTOS-brightgreen?style=flat&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -123,15 +116,36 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,rust,ocaml,elixir,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,rust,python,typescript&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/OCaml-F7DBA0?style=for-the-badge&logo=ocaml&logoColor=black" />
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
 
-**Backend & Infrastructure**
+**Java Ecosystem**
 
-<img src="https://skillicons.dev/icons?i=kafka,spring,docker,kubernetes,ansible,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Armeria-1A2C3D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/jOOQ-006E8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jackson-E37B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache%20Thrift-E87A60?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Picocli-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Micrometer-2C91D4?style=for-the-badge" />
 
-**Databases & Observability**
+**Rust Ecosystem**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,grafana,prometheus&theme=dark" />
+<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Clap-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Rayon-000000?style=for-the-badge&logo=rust&logoColor=white" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch&theme=dark" />
+
+**Infrastructure & Observability**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,prometheus,grafana,linux&theme=dark" />
 
 **Tooling**
 
