@@ -118,9 +118,17 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 ### 📊 &nbsp;Stats
 
 <div align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=BIRSAx2&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&line_height=29&cache_seconds=3600" />
+  <img src="profile-summary-card-output/dracula/0-profile-details.svg" />
+</div>
+<div align="center">
+  <img width="45%" src="profile-summary-card-output/dracula/1-repos-per-language.svg" />
   &nbsp;
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRSAx2&hide=XSLT,tex,jupyter%20notebook,html,less,css,scss&exclude_repo=studies&langs_count=7&theme=dracula&show_icons=true&layout=donut" />
+  <img width="45%" src="profile-summary-card-output/dracula/2-most-commit-language.svg" />
+</div>
+<div align="center">
+  <img width="45%" src="profile-summary-card-output/dracula/3-stats.svg" />
+  &nbsp;
+  <img width="45%" src="profile-summary-card-output/dracula/4-productive-time.svg" />
 </div>
 
 ---
