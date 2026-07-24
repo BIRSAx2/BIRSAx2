@@ -21,5 +21,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "master"
           THEME: "dracula"
+          UTC_OFFSET: 1
           EXCLUDE: "Python,Java"
           AUTO_PUSH: true
