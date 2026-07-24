@@ -31,12 +31,20 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 <table>
   <tr>
     <td width="50%">
+      <h4><a href="https://github.com/BIRSAx2/mdcat">📄 mdcat</a></h4>
+      Terminal markdown renderer with syntax highlighting and inline image support (iTerm2, Kitty).
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+    </td>
+    <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/tiny-redis">🗄️ tiny-redis</a></h4>
       Redis-compatible server from scratch, RESP2 protocol, all 5 data structures, MULTI/EXEC transactions, AOF persistence, 5 eviction policies.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Tokio-000000?style=flat&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/dolphin">🐬 dolphin</a></h4>
       Full-pipeline compiler for a statically-typed language, Menhir parser, type inference, LLVM IR codegen, C runtime with networking.
@@ -44,8 +52,6 @@ I gravitate toward systems programming, distributed systems, compilers, and type
       <img src="https://img.shields.io/badge/OCaml-F7DBA0?style=flat&logo=ocaml&logoColor=black" />
       <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/CoqHM">🔬 CoqHM</a></h4>
       Formal verification of Hindley-Milner type inference proved sound in the Rocq proof assistant.
@@ -53,21 +59,21 @@ I gravitate toward systems programming, distributed systems, compilers, and type
       <img src="https://img.shields.io/badge/Rocq-E34F26?style=flat&logoColor=white" />
       <img src="https://img.shields.io/badge/Typst-239DAD?style=flat&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/BIRSAx2/sifr">🛡️ sifr</a></h4>
+      Compile-time information flow control for Rust. Labels sensitive values at the type level; the compiler rejects unsafe flows.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Information%20Flow%20Control-2C3E50?style=flat" />
+    </td>
     <td width="50%">
       <h4><a href="https://github.com/BIRSAx2/ibn-battuta">🗺️ ibn-battuta</a></h4>
       TSP solver library, exact (BHK, B&B), heuristic (2-Opt, LK), and metaheuristic (ACS, GA, SA) algorithms. Published on crates.io.
       <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Rayon-000000?style=flat&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/BIRSAx2/random-art">🎨 random-art</a></h4>
-      Procedural abstract art via recursive expression grammars, renders to PNG or real-time GLSL shaders.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat&logoColor=white" />
     </td>
   </tr>
 </table>
