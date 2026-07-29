@@ -124,6 +124,11 @@ I gravitate toward systems programming, distributed systems, compilers, and type
 ### 📊 &nbsp;Stats
 
 <div align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" />
+</div>
+
+<!--
+<div align="center">
   <img src="profile-summary-card-output/dracula/0-profile-details.svg" />
 </div>
 <div align="center">
@@ -136,6 +141,7 @@ I gravitate toward systems programming, distributed systems, compilers, and type
   &nbsp;
   <img width="45%" src="profile-summary-card-output/dracula/4-productive-time.svg" />
 </div>
+-->
 
 ---
 
