@@ -14,10 +14,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: BIRSAx2/git-terrain@5811b97ca89d5f4c67ddb89a5e7835d8644a5b9e # v0
+      - uses: BIRSAx2/git-terrain@3ea95de4c1ec33f25c5b68bbcdac56b8f8cd11f5 # v0.1.0
         with:
           username: ${{ github.repository_owner }}
           max-repos: 300
+          exclude-pie: Python
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
       - name: Commit & Push
