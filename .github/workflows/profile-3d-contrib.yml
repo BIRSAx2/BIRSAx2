@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: BIRSAx2/git-terrain@v0
+      - uses: BIRSAx2/git-terrain@5811b97ca89d5f4c67ddb89a5e7835d8644a5b9e # v0
         with:
           username: ${{ github.repository_owner }}
           max-repos: 300
