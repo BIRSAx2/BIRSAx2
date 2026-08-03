@@ -3367,6 +3367,16 @@ fill-opacity: 0.5;
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1160 763.12)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1160 766.17;1160 763.12"/>
+<rect class="cont-top-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-1" height="5.24" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;5.24"/>
+</rect>
+<rect class="cont-right-1" height="5.24" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;5.24"/>
+</rect>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -3413,7 +3423,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>2348</title>
+<title>2343</title>
 </text>
 </g>
 <g class="axis">
@@ -3444,8 +3454,8 @@ Repo
 <title>34</title>
 </text>
 </g>
-<polygon class="radar" points="0,-136.37 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.12,-24.41">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.37 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.12,-24.41"/>
+<polygon class="radar" points="0,-136.34 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.12,-24.41">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.34 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.12,-24.41"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -3494,35 +3504,35 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,91.974075,-72.31715 L51.09671,-40.17619 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
-<title>Rust 338</title>
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,92.30661,-71.892204 L51.281452,-39.940113 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
+<title>Rust 339</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M91.974075,-72.31715 A117,117,0,0,1,116.778465,-7.196499 L64.87692,-3.9980547 A65,65,0,0,0,51.09671,-40.17619 z" fill="#239dad" stroke-width="2px">
+<path class="stroke-bg" d="M92.30661,-71.892204 A117,117,0,0,1,116.81891,-6.5070987 L64.89939,-3.6150548 A65,65,0,0,0,51.281452,-39.940113 z" fill="#239dad" stroke-width="2px">
 <title>Typst 226</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M116.778465,-7.196499 A117,117,0,0,1,112.411835,32.443474 L62.45102,18.024153 A65,65,0,0,0,64.87692,-3.9980547 z" fill="#c22d40" stroke-width="2px">
+<path class="stroke-bg" d="M116.81891,-6.5070987 A117,117,0,0,1,112.19415,33.188427 L62.330086,18.438015 A65,65,0,0,0,64.89939,-3.6150548 z" fill="#c22d40" stroke-width="2px">
 <title>Scala 128</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M112.411835,32.443474 A117,117,0,0,1,95.89065,67.037186 L53.272583,37.242878 A65,65,0,0,0,62.45102,18.024153 z" fill="#ef7a08" stroke-width="2px">
+<path class="stroke-bg" d="M112.19415,33.188427 A117,117,0,0,1,95.3963,67.73881 L52.997944,37.63267 A65,65,0,0,0,62.330086,18.438015 z" fill="#ef7a08" stroke-width="2px">
 <title>OCaml 123</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M95.89065,67.037186 A117,117,0,0,1,84.37512,81.05454 L46.87507,45.0303 A65,65,0,0,0,53.272583,37.242878 z" fill="#d0b68c" stroke-width="2px">
+<path class="stroke-bg" d="M95.3963,67.73881 A117,117,0,0,1,83.751205,81.69906 L46.528446,45.388363 A65,65,0,0,0,52.997944,37.63267 z" fill="#d0b68c" stroke-width="2px">
 <title>Rocq Prover 58</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M84.37512,81.05454 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,46.87507,45.0303 z" fill="#444444" stroke-width="2px">
-<title>other 1475</title>
+<path class="stroke-bg" d="M83.751205,81.69906 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,46.528446,45.388363 z" fill="#444444" stroke-width="2px">
+<title>other 1469</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-2620
+2615
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -3542,12 +3552,12 @@ contributions
 <title>9</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-08-03 / 2026-08-02
+2025-08-03 / 2026-08-03
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-6699
+6700
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
@@ -3568,7 +3578,7 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <rect class="fill-strong" height="36" style="opacity:0.12" width="48.083333333333336" x="90.08333333333334" y="980">
 <title>01:00 - 0 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.17" width="48.083333333333336" x="140.16666666666669" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.18" width="48.083333333333336" x="140.16666666666669" y="980">
 <title>02:00 - 5 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.13" width="48.083333333333336" x="190.25" y="980">
@@ -3586,41 +3596,41 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="340.5" y="1030">
 06
 </text>
-<rect class="fill-strong" height="36" style="opacity:0.80" width="48.083333333333336" x="390.58333333333337" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.81" width="48.083333333333336" x="390.58333333333337" y="980">
 <title>07:00 - 62 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.67" width="48.083333333333336" x="440.6666666666667" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.68" width="48.083333333333336" x="440.6666666666667" y="980">
 <title>08:00 - 50 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.79" width="48.083333333333336" x="490.75" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.80" width="48.083333333333336" x="490.75" y="980">
 <title>09:00 - 61 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.74" width="48.083333333333336" x="540.8333333333334" y="980">
 <title>10:00 - 56 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.56" width="48.083333333333336" x="590.9166666666667" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.57" width="48.083333333333336" x="590.9166666666667" y="980">
 <title>11:00 - 40 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.76" width="48.083333333333336" x="641" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.77" width="48.083333333333336" x="641" y="980">
 <title>12:00 - 58 commits</title>
 </rect>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="641" y="1030">
 12
 </text>
 <rect class="fill-strong" height="36" style="opacity:1.00" width="48.083333333333336" x="691.0833333333334" y="980">
-<title>13:00 - 80 commits</title>
+<title>13:00 - 79 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="741.1666666666667" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.62" width="48.083333333333336" x="741.1666666666667" y="980">
 <title>14:00 - 45 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.56" width="48.083333333333336" x="791.25" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.57" width="48.083333333333336" x="791.25" y="980">
 <title>15:00 - 40 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.60" width="48.083333333333336" x="841.3333333333334" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="841.3333333333334" y="980">
 <title>16:00 - 44 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.34" width="48.083333333333336" x="891.4166666666667" y="980">
-<title>17:00 - 20 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.35" width="48.083333333333336" x="891.4166666666667" y="980">
+<title>17:00 - 21 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.43" width="48.083333333333336" x="941.5" y="980">
 <title>18:00 - 28 commits</title>
