@@ -3347,10 +3347,25 @@ fill-opacity: 0.5;
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
-<g transform="translate(1180 754.62)">
-<rect class="cont-top-0" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
-<rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
-<rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+<g transform="translate(1180 735.86)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1180 754.62;1180 735.86"/>
+<rect class="cont-top-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-1" height="18.85" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;18.85"/>
+</rect>
+<rect class="cont-right-1" height="18.85" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;18.85"/>
+</rect>
+</g>
+<g transform="translate(1160 760.21)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1160 766.17;1160 760.21"/>
+<rect class="cont-top-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-1" height="7.76" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+</rect>
+<rect class="cont-right-1" height="7.76" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+</rect>
 </g>
 </g>
 <g transform="translate(980, 284.5)">
@@ -3398,7 +3413,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>2354</title>
+<title>2356</title>
 </text>
 </g>
 <g class="axis">
@@ -3426,11 +3441,11 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>35</title>
+<title>36</title>
 </text>
 </g>
-<polygon class="radar" points="0,-136.4 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.49,-24.53">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.4 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.49,-24.53"/>
+<polygon class="radar" points="0,-136.41 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.41 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -3479,35 +3494,35 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,92.192986,-72.037865 L51.218327,-40.021034 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,92.13746,-72.108864 L51.187477,-40.06048 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
 <title>Rust 340</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M92.192986,-72.037865 A117,117,0,0,1,116.807396,-6.710569 L64.893,-3.7280939 A65,65,0,0,0,51.218327,-40.021034 z" fill="#239dad" stroke-width="2px">
+<path class="stroke-bg" d="M92.13746,-72.108864 A117,117,0,0,1,116.79868,-6.860629 L64.88815,-3.8114605 A65,65,0,0,0,51.187477,-40.06048 z" fill="#239dad" stroke-width="2px">
 <title>Typst 227</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M116.807396,-6.710569 A117,117,0,0,1,112.304565,32.81286 L62.391426,18.229366 A65,65,0,0,0,64.893,-3.7280939 z" fill="#c22d40" stroke-width="2px">
+<path class="stroke-bg" d="M116.79868,-6.860629 A117,117,0,0,1,112.3561,32.635967 L62.420055,18.131092 A65,65,0,0,0,64.88815,-3.8114605 z" fill="#c22d40" stroke-width="2px">
 <title>Scala 128</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M112.304565,32.81286 A117,117,0,0,1,95.72621,67.27178 L53.18123,37.37321 A65,65,0,0,0,62.391426,18.229366 z" fill="#ef7a08" stroke-width="2px">
+<path class="stroke-bg" d="M112.3561,32.635967 A117,117,0,0,1,95.85073,67.094246 L53.250404,37.27458 A65,65,0,0,0,62.420055,18.131092 z" fill="#ef7a08" stroke-width="2px">
 <title>OCaml 123</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M95.72621,67.27178 A117,117,0,0,1,84.20854,81.22759 L46.782524,45.12644 A65,65,0,0,0,53.18123,37.37321 z" fill="#d0b68c" stroke-width="2px">
+<path class="stroke-bg" d="M95.85073,67.094246 A117,117,0,0,1,84.3696,81.06029 L46.872,45.033493 A65,65,0,0,0,53.250404,37.27458 z" fill="#d0b68c" stroke-width="2px">
 <title>Rocq Prover 58</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M84.20854,81.22759 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,46.782524,45.12644 z" fill="#444444" stroke-width="2px">
-<title>other 1478</title>
+<path class="stroke-bg" d="M84.3696,81.06029 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,46.872,45.033493 z" fill="#444444" stroke-width="2px">
+<title>other 1480</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-2627
+2630
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -3516,8 +3531,8 @@ contributions
 <path class="fill-fg" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" fill-rule="evenodd"/>
 </g>
 <text class="fill-fg" style="font-size:32px;font-weight:bold" text-anchor="start" x="650" y="830">
-116
-<title>116</title>
+117
+<title>117</title>
 </text>
 <g transform="translate(736, 802), scale(2)">
 <path class="fill-fg" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" fill-rule="evenodd"/>
@@ -3527,18 +3542,18 @@ contributions
 <title>9</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-08-17 / 2026-08-16
+2025-08-17 / 2026-08-17
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-6727
+6736
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
 </text>
 <text class="fill-weak" style="font-size:14px" text-anchor="start" x="40" y="940">
-BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 106 stars
+BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 107 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
 144 issues · 136 PRs · 19 repos contributed to · mouhieddine.dev
@@ -3604,8 +3619,8 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="841.3333333333334" y="980">
 <title>16:00 - 45 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.35" width="48.083333333333336" x="891.4166666666667" y="980">
-<title>17:00 - 21 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.37" width="48.083333333333336" x="891.4166666666667" y="980">
+<title>17:00 - 23 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.45" width="48.083333333333336" x="941.5" y="980">
 <title>18:00 - 30 commits</title>
@@ -3637,25 +3652,25 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#dea584" height="18" width="339.62264150943395" x="40" y="1050">
+<rect fill="#dea584" height="18" width="333.33333333333337" x="40" y="1050">
 <title>Rust (15 repos)</title>
 </rect>
-<rect fill="#6e4a7e" height="18" width="203.77358490566036" x="379.62264150943395" y="1050">
-<title>Elixir (9 repos)</title>
+<rect fill="#6e4a7e" height="18" width="222.2222222222222" x="373.33333333333337" y="1050">
+<title>Elixir (10 repos)</title>
 </rect>
-<rect fill="#239dad" height="18" width="158.49056603773585" x="583.3962264150944" y="1050">
+<rect fill="#239dad" height="18" width="155.55555555555554" x="595.5555555555555" y="1050">
 <title>Typst (7 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="90.56603773584905" x="741.8867924528302" y="1050">
+<rect fill="#3572A5" height="18" width="88.88888888888889" x="751.1111111111111" y="1050">
 <title>Python (4 repos)</title>
 </rect>
-<rect fill="#b07219" height="18" width="67.9245283018868" x="832.4528301886792" y="1050">
+<rect fill="#b07219" height="18" width="66.66666666666666" x="840" y="1050">
 <title>Java (3 repos)</title>
 </rect>
-<rect fill="#f1e05a" height="18" width="45.283018867924525" x="900.3773584905659" y="1050">
+<rect fill="#f1e05a" height="18" width="44.44444444444444" x="906.6666666666666" y="1050">
 <title>JavaScript (2 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="294.33962264150944" x="945.6603773584905" y="1050">
+<rect fill="#444444" height="18" width="288.88888888888886" x="951.1111111111111" y="1050">
 <title>other (13 repos)</title>
 </rect>
 </g>
@@ -3666,26 +3681,26 @@ Rust (15)
 </text>
 <rect fill="#6e4a7e" height="10" width="10" x="122" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="136" y="1084">
-Elixir (9)
+Elixir (10)
 </text>
-<rect fill="#239dad" height="10" width="10" x="210" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="224" y="1084">
+<rect fill="#239dad" height="10" width="10" x="216" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="230" y="1084">
 Typst (7)
 </text>
-<rect fill="#3572A5" height="10" width="10" x="292" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="306" y="1084">
+<rect fill="#3572A5" height="10" width="10" x="298" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="312" y="1084">
 Python (4)
 </text>
-<rect fill="#b07219" height="10" width="10" x="380" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="394" y="1084">
+<rect fill="#b07219" height="10" width="10" x="386" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="400" y="1084">
 Java (3)
 </text>
-<rect fill="#f1e05a" height="10" width="10" x="456" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="470" y="1084">
+<rect fill="#f1e05a" height="10" width="10" x="462" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="476" y="1084">
 JavaScript (2)
 </text>
-<rect fill="#444444" height="10" width="10" x="568" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="582" y="1084">
+<rect fill="#444444" height="10" width="10" x="574" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="588" y="1084">
 other (13)
 </text>
 </g>
