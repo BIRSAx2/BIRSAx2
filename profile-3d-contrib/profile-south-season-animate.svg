@@ -3642,14 +3642,24 @@ fill-opacity: 0.5;
 <animate attributeName="height" dur="3s" repeatCount="1" values="2.6;18.85"/>
 </rect>
 </g>
-<g transform="translate(1160 760.21)">
-<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1160 766.17;1160 760.21"/>
+<g transform="translate(1160 757.43)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1160 766.17;1160 757.43"/>
 <rect class="cont-top-p19-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
-<rect class="cont-left-p19-1" height="7.76" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
-<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+<rect class="cont-left-p19-1" height="10.17" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;10.17"/>
 </rect>
-<rect class="cont-right-p19-1" height="7.76" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
-<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+<rect class="cont-right-p19-1" height="10.17" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;10.17"/>
+</rect>
+</g>
+<g transform="translate(1140 761.31)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1140 777.72;1140 761.31"/>
+<rect class="cont-top-p19-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-p19-1" height="16.81" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;16.81"/>
+</rect>
+<rect class="cont-right-p19-1" height="16.81" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;16.81"/>
 </rect>
 </g>
 </g>
@@ -3698,7 +3708,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>2356</title>
+<title>2363</title>
 </text>
 </g>
 <g class="axis">
@@ -3729,8 +3739,8 @@ Repo
 <title>36</title>
 </text>
 </g>
-<polygon class="radar" points="0,-136.41 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.41 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65"/>
+<polygon class="radar" points="0,-136.45 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.45 89.65,-29.13 56.2,77.35 -39.91,54.93 -75.85,-24.65"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -3779,35 +3789,35 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,92.13746,-72.108864 L51.187477,-40.06048 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,91.943436,-72.356094 L51.07969,-40.19783 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
 <title>Rust 340</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M92.13746,-72.108864 A117,117,0,0,1,116.79868,-6.860629 L64.88815,-3.8114605 A65,65,0,0,0,51.187477,-40.06048 z" fill="#239dad" stroke-width="2px">
+<path class="stroke-bg" d="M91.943436,-72.356094 A117,117,0,0,1,116.76678,-7.383749 L64.87043,-4.1020827 A65,65,0,0,0,51.07969,-40.19783 z" fill="#239dad" stroke-width="2px">
 <title>Typst 227</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M116.79868,-6.860629 A117,117,0,0,1,112.3561,32.635967 L62.420055,18.131092 A65,65,0,0,0,64.88815,-3.8114605 z" fill="#c22d40" stroke-width="2px">
+<path class="stroke-bg" d="M116.76678,-7.383749 A117,117,0,0,1,112.5336,32.01857 L62.518665,17.788094 A65,65,0,0,0,64.87043,-4.1020827 z" fill="#c22d40" stroke-width="2px">
 <title>Scala 128</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M112.3561,32.635967 A117,117,0,0,1,95.85073,67.094246 L53.250404,37.27458 A65,65,0,0,0,62.420055,18.131092 z" fill="#ef7a08" stroke-width="2px">
+<path class="stroke-bg" d="M112.5336,32.01857 A117,117,0,0,1,96.28232,66.47342 L53.490173,36.92968 A65,65,0,0,0,62.518665,17.788094 z" fill="#ef7a08" stroke-width="2px">
 <title>OCaml 123</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M95.85073,67.094246 A117,117,0,0,1,84.3696,81.06029 L46.872,45.033493 A65,65,0,0,0,53.250404,37.27458 z" fill="#d0b68c" stroke-width="2px">
+<path class="stroke-bg" d="M96.28232,66.47342 A117,117,0,0,1,84.92856,80.474464 L47.182533,44.708035 A65,65,0,0,0,53.490173,36.92968 z" fill="#d0b68c" stroke-width="2px">
 <title>Rocq Prover 58</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M84.3696,81.06029 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,46.872,45.033493 z" fill="#444444" stroke-width="2px">
-<title>other 1480</title>
+<path class="stroke-bg" d="M84.92856,80.474464 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,47.182533,44.708035 z" fill="#444444" stroke-width="2px">
+<title>other 1487</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-2630
+2637
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -3827,12 +3837,12 @@ contributions
 <title>9</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-08-17 / 2026-08-17
+2025-08-17 / 2026-08-18
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-6736
+6743
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
@@ -3871,32 +3881,32 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="340.5" y="1030">
 06
 </text>
-<rect class="fill-strong" height="36" style="opacity:0.80" width="48.083333333333336" x="390.58333333333337" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.79" width="48.083333333333336" x="390.58333333333337" y="980">
 <title>07:00 - 62 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.70" width="48.083333333333336" x="440.6666666666667" y="980">
-<title>08:00 - 53 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.71" width="48.083333333333336" x="440.6666666666667" y="980">
+<title>08:00 - 54 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.81" width="48.083333333333336" x="490.75" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.80" width="48.083333333333336" x="490.75" y="980">
 <title>09:00 - 63 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.77" width="48.083333333333336" x="540.8333333333334" y="980">
-<title>10:00 - 59 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.78" width="48.083333333333336" x="540.8333333333334" y="980">
+<title>10:00 - 61 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.58" width="48.083333333333336" x="590.9166666666667" y="980">
 <title>11:00 - 42 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.76" width="48.083333333333336" x="641" y="980">
+<rect class="fill-strong" height="36" style="opacity:0.75" width="48.083333333333336" x="641" y="980">
 <title>12:00 - 58 commits</title>
 </rect>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="641" y="1030">
 12
 </text>
 <rect class="fill-strong" height="36" style="opacity:1.00" width="48.083333333333336" x="691.0833333333334" y="980">
-<title>13:00 - 80 commits</title>
+<title>13:00 - 81 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.60" width="48.083333333333336" x="741.1666666666667" y="980">
-<title>14:00 - 44 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="741.1666666666667" y="980">
+<title>14:00 - 45 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.59" width="48.083333333333336" x="791.25" y="980">
 <title>15:00 - 43 commits</title>
@@ -3907,8 +3917,8 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <rect class="fill-strong" height="36" style="opacity:0.37" width="48.083333333333336" x="891.4166666666667" y="980">
 <title>17:00 - 23 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.45" width="48.083333333333336" x="941.5" y="980">
-<title>18:00 - 30 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.46" width="48.083333333333336" x="941.5" y="980">
+<title>18:00 - 31 commits</title>
 </rect>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="941.5" y="1030">
 18
