@@ -3397,7 +3397,17 @@ fill-opacity: 0.5;
 <animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
 </rect>
 </g>
-<g transform="translate(1080 812.36)">
+<g transform="translate(1080 803.62)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1080 812.36;1080 803.62"/>
+<rect class="cont-top-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-1" height="10.17" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;10.17"/>
+</rect>
+<rect class="cont-right-1" height="10.17" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;10.17"/>
+</rect>
+</g>
+<g transform="translate(1060 823.91)">
 <rect class="cont-top-0" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
@@ -3448,7 +3458,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>2388</title>
+<title>2390</title>
 </text>
 </g>
 <g class="axis">
@@ -3476,11 +3486,11 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>37</title>
+<title>38</title>
 </text>
 </g>
-<polygon class="radar" points="0,-136.59 89.65,-29.13 56.2,77.35 -39.91,54.93 -76.21,-24.76">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.59 89.65,-29.13 56.2,77.35 -39.91,54.93 -76.21,-24.76"/>
+<polygon class="radar" points="0,-136.61 89.65,-29.13 56.2,77.35 -39.91,54.93 -76.55,-24.87">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-136.61 89.65,-29.13 56.2,77.35 -39.91,54.93 -76.55,-24.87"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -3529,27 +3539,27 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,91.25451,-73.223045 L50.696953,-40.679466 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
-<title>Rust 340</title>
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,91.58377,-72.81081 L50.87987,-40.450447 A65,65,0,0,0,0,-65 z" fill="#dea584" stroke-width="2px">
+<title>Rust 342</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M91.25451,-73.223045 A117,117,0,0,1,116.6357,-9.225748 L64.79761,-5.1254153 A65,65,0,0,0,50.696953,-40.679466 z" fill="#239dad" stroke-width="2px">
+<path class="stroke-bg" d="M91.58377,-72.81081 A117,117,0,0,1,116.671745,-8.758027 L64.817635,-4.8655705 A65,65,0,0,0,50.87987,-40.450447 z" fill="#239dad" stroke-width="2px">
 <title>Typst 227</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M116.6357,-9.225748 A117,117,0,0,1,113.13196,29.835562 L62.851086,16.575312 A65,65,0,0,0,64.79761,-5.1254153 z" fill="#c22d40" stroke-width="2px">
+<path class="stroke-bg" d="M116.671745,-8.758027 A117,117,0,0,1,113.01995,30.257069 L62.788864,16.809483 A65,65,0,0,0,64.817635,-4.8655705 z" fill="#c22d40" stroke-width="2px">
 <title>Scala 128</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M113.13196,29.835562 A117,117,0,0,1,97.77087,64.26397 L54.317146,35.702206 A65,65,0,0,0,62.851086,16.575312 z" fill="#ef7a08" stroke-width="2px">
+<path class="stroke-bg" d="M113.01995,30.257069 A117,117,0,0,1,97.548134,64.60156 L54.19341,35.889755 A65,65,0,0,0,62.788864,16.809483 z" fill="#ef7a08" stroke-width="2px">
 <title>OCaml 123</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M97.77087,64.26397 A117,117,0,0,1,80.86069,84.56092 L44.922604,46.97829 A65,65,0,0,0,54.317146,35.702206 z" fill="#6e4a7e" stroke-width="2px">
+<path class="stroke-bg" d="M97.548134,64.60156 A117,117,0,0,1,80.583954,84.82468 L44.768864,47.12482 A65,65,0,0,0,54.19341,35.889755 z" fill="#6e4a7e" stroke-width="2px">
 <title>Elixir 86</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M80.86069,84.56092 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,44.922604,46.97829 z" fill="#444444" stroke-width="2px">
+<path class="stroke-bg" d="M80.583954,84.82468 A117,117,0,1,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,1,0,44.768864,47.12482 z" fill="#444444" stroke-width="2px">
 <title>other 1484</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
@@ -3557,7 +3567,7 @@ other
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-2663
+2666
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -3577,21 +3587,21 @@ contributions
 <title>9</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-08-24 / 2026-08-28
+2025-08-24 / 2026-08-29
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-6781
+6784
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
 </text>
 <text class="fill-weak" style="font-size:14px" text-anchor="start" x="40" y="940">
-BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 115 stars
+BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 26 public repos · 115 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
-144 issues · 136 PRs · 20 repos contributed to · mouhieddine.dev
+144 issues · 136 PRs · 21 repos contributed to · mouhieddine.dev
 </text>
 <g>
 <rect class="fill-strong" height="36" style="opacity:0.14" width="48.083333333333336" x="40" y="980">
@@ -3648,8 +3658,8 @@ BIRSAx2 · MultiSafepay · Aarhus, Denmark · joined 2018 · 25 public repos · 
 <rect class="fill-strong" height="36" style="opacity:0.62" width="48.083333333333336" x="741.1666666666667" y="980">
 <title>14:00 - 47 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.58" width="48.083333333333336" x="791.25" y="980">
-<title>15:00 - 43 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.59" width="48.083333333333336" x="791.25" y="980">
+<title>15:00 - 44 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.60" width="48.083333333333336" x="841.3333333333334" y="980">
 <title>16:00 - 45 commits</title>
@@ -3687,32 +3697,32 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#dea584" height="18" width="327.27272727272725" x="40" y="1050">
-<title>Rust (15 repos)</title>
+<rect fill="#dea584" height="18" width="342.85714285714283" x="40" y="1050">
+<title>Rust (16 repos)</title>
 </rect>
-<rect fill="#6e4a7e" height="18" width="218.1818181818182" x="367.27272727272725" y="1050">
+<rect fill="#6e4a7e" height="18" width="214.28571428571428" x="382.85714285714283" y="1050">
 <title>Elixir (10 repos)</title>
 </rect>
-<rect fill="#239dad" height="18" width="152.72727272727272" x="585.4545454545455" y="1050">
+<rect fill="#239dad" height="18" width="150" x="597.1428571428571" y="1050">
 <title>Typst (7 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="87.27272727272727" x="738.1818181818182" y="1050">
+<rect fill="#3572A5" height="18" width="85.71428571428571" x="747.1428571428571" y="1050">
 <title>Python (4 repos)</title>
 </rect>
-<rect fill="#b07219" height="18" width="65.45454545454545" x="825.4545454545455" y="1050">
+<rect fill="#b07219" height="18" width="64.28571428571428" x="832.8571428571428" y="1050">
 <title>Java (3 repos)</title>
 </rect>
-<rect fill="#3D6117" height="18" width="65.45454545454545" x="890.909090909091" y="1050">
+<rect fill="#3D6117" height="18" width="64.28571428571428" x="897.1428571428571" y="1050">
 <title>TeX (3 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="283.6363636363636" x="956.3636363636365" y="1050">
+<rect fill="#444444" height="18" width="278.57142857142856" x="961.4285714285713" y="1050">
 <title>other (13 repos)</title>
 </rect>
 </g>
 <g>
 <rect fill="#dea584" height="10" width="10" x="40" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="54" y="1084">
-Rust (15)
+Rust (16)
 </text>
 <rect fill="#6e4a7e" height="10" width="10" x="122" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="136" y="1084">
