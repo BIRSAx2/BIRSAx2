@@ -17,18 +17,18 @@ fill-opacity: 0.5;
 .cont-top-0 { fill: #efefef; }
 .cont-left-0 { fill: #c8c8c8; }
 .cont-right-0 { fill: #a7a7a7; }
-.cont-top-1 { fill: #d8e887; }
-.cont-left-1 { fill: #b5c271; }
-.cont-right-1 { fill: #97a25f; }
-.cont-top-2 { fill: #8cc569; }
-.cont-left-2 { fill: #75a558; }
-.cont-right-2 { fill: #628a4a; }
-.cont-top-3 { fill: #47a042; }
-.cont-left-3 { fill: #3b8637; }
-.cont-right-3 { fill: #32702e; }
-.cont-top-4 { fill: #1d6a23; }
-.cont-left-4 { fill: #18591d; }
-.cont-right-4 { fill: #144a19; }
+.cont-top-1 { fill: #ffed4a; }
+.cont-left-1 { fill: #d5c63e; }
+.cont-right-1 { fill: #b3a634; }
+.cont-top-2 { fill: #ffc402; }
+.cont-left-2 { fill: #d5a402; }
+.cont-right-2 { fill: #b38901; }
+.cont-top-3 { fill: #fe9400; }
+.cont-left-3 { fill: #d57c00; }
+.cont-right-3 { fill: #b26800; }
+.cont-top-4 { fill: #fa6100; }
+.cont-left-4 { fill: #d15100; }
+.cont-right-4 { fill: #af4400; }
 </style>
 <rect class="fill-bg" height="1190" width="1280" x="0" y="0"/>
 <g>
@@ -3312,6 +3312,11 @@ fill-opacity: 0.5;
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1060 823.91)">
+<rect class="cont-top-0" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -3487,7 +3492,7 @@ contributions
 <title>19</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-10-26 / 2026-10-30
+2025-10-26 / 2026-10-31
 </text>
 </g>
 <g>
